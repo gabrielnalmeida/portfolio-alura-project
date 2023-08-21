@@ -1,6 +1,6 @@
 # Projeto Portfólio Alura
 
-Durante a Formação HTML & CSS Alura realizamos o desenvolvimento de um site básico de portfólio
+Durante as 3 primeiras aulas da Formação HTML & CSS Alura realizamos o desenvolvimento de um site básico de portfólio
 
 Skills utilizadas durante o processo de aprendizado:
 
